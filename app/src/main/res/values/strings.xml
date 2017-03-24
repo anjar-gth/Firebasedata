@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebasedata</string>
+    <string name="textView" />
+    <string name="textview">TextView</string>
+    <string name="button2">Button</string>
+    <string name="editText3">Name</string>
+    <string name="radiobutton">Red Color</string>
+    <string name="radiobutton1">Blue Color</string>
+</resources>

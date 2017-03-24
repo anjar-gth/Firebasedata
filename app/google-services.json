@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "923096842965",
+    "firebase_url": "https://mydatabase-a8010.firebaseio.com",
+    "project_id": "mydatabase-a8010",
+    "storage_bucket": "mydatabase-a8010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923096842965:android:103143c27d3a7499",
+        "android_client_info": {
+          "package_name": "com.example.dell.firebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923096842965-i4mdf87a38ggm3qq7ai7ip09br0i872b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBri1QXhi6ENYMWu2h266r2wZJ6a45mj4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
